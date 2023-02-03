@@ -82,3 +82,6 @@ let k=[5,3,7,5,2,9,8]
 
 let j= k.reduce((h1,h2)=>{return h1+h2})
 console.log(j)
+
+let check=["kajal","bhakti","drashti"]
+console.log(check);
